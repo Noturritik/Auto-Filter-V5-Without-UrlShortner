@@ -16,50 +16,50 @@
       "inline"
     ],
     "website": "https://github.com/Cyniteofficial/Auto-Filter-V5",
-    "repository": "https://github.com/Cyniteofficial/Auto-Filter-V5",
+    "repository": "https://github.com/Noturritik/Auto-Filter-V5",
     "env": {
         "BOT_TOKEN": {
-            "description": "Your bot token.",
+            "description": "5940237917:AAFmz-TEAh89XM2Z-an2rSBbscNzNBSjsAc",
             "required": true
         },
         "API_ID": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "17170430",
             "required": true
         },
         "API_HASH": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "f592f4ea158042de9f3e3cb4e09d325c",
             "required": true
         },
         "CHANNELS": {
-            "description": "Username or ID of channel or group. Separate multiple IDs by space.",
+            "description": "MoViEs_xD1",
             "required": false
         },
         "SUPPORT_GROUP": {
-            "description": "Support Group Chat ID",
+            "description": "-1001893128378",
             "required": true
         },
         "RQST_LOG_CHANNEL": {
-            "description": "request log channel ID",
+            "description": "-1001858034916",
             "required": true
         },
         "FILE_CHANNEL": {
-            "description": "File Channel Id",
+            "description": "-1001893128378",
             "required": true
         },
         "FILE_CHANNEL_LINK": {
-            "description": "File Channel Link",
+            "description": "https://t.me/MoViEs_xD1",
             "required": true
         },
         "ADMINS": {
-            "description": "Username or ID of Admin. Separate multiple Admins by space.",
+            "description": "5911991454",
             "required": true
         },
         "PICS": {
-            "description": "Add some telegraph link of pictures .",
+            "description": "https://deposit.pictures/p/b9849abffed64b339a2e537cb0241b4c",
             "required": false
         },
         "LOG_CHANNEL": {
-            "description": "Bot Logs,Give a channel id with -100xxxxxxx",
+            "description": "-1001858034916",
             "required": true
         },
         "AUTH_USERS": {
@@ -67,15 +67,15 @@
             "required": false
         },
         "AUTH_CHANNEL": {
-            "description": "ID of channel.Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
+            "description": "-1001858034916",
             "required": false
         },
         "DATABASE_URI": {
-            "description": "mongoDB URI. Get this value from https://www.mongodb.com.",
+            "description": "mongodb+srv://Ritik:ritik//!!?@cluster0.6qzamdp.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "DATABASE_NAME": {
-            "description": "Name of the database in mongoDB.",
+            "description": "Ritik",
             "required": false
         },
         "COLLECTION_NAME": {
