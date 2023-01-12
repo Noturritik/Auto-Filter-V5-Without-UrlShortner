@@ -6,7 +6,7 @@ marshmallow==3.14.1
 umongo==3.0.1
 requests
 bs4
-git+https://github.com/Noturritik/Auto-Filter-V5-Without-UrlShortner
+git+https://github.com/Noturritik/Auto-Filter-V5-Without-UrlShortner  pip3 install -U pip && pip3 install -U -r requirements.txt:
 psutil
 pytz
 aiohttp
